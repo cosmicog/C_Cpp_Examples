@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include </home/gazi/C_denemeler/a/a.h>
+#include </home/gazi/C_Cpp_Examples/a/a.h>
 
 void setA1()
 {

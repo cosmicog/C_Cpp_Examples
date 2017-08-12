@@ -1,37 +1,37 @@
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./a.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./a.out
 ------------> Alloc - Dealloc Everytime:: Elapsed time: 0.075384
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./a.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./a.out
 ------------> Alloc - Dealloc Everytime:: Elapsed time: 0.0741677
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./a.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./a.out
 ------------> Alloc - Dealloc Everytime:: Elapsed time: 0.074426
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./a.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./a.out
 ------------> Alloc - Dealloc Everytime:: Elapsed time: 0.0740817
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./a.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./a.out
 ------------> Alloc - Dealloc Everytime:: Elapsed time: 0.0734898
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./a.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./a.out
 ------------> Alloc - Dealloc Everytime:: Elapsed time: 0.0747045
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./a.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./a.out
 ------------> Alloc - Dealloc Everytime:: Elapsed time: 0.0727975
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./a.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./a.out
 ------------> Alloc - Dealloc Everytime:: Elapsed time: 0.0772903
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./a.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./a.out
 ------------> Alloc - Dealloc Everytime:: Elapsed time: 0.0726992
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./p.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./p.out
 ------------>  Process only:: Elapsed time: 0.00806864
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./p.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./p.out
 ------------>  Process only:: Elapsed time: 0.00727956
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./p.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./p.out
 ------------>  Process only:: Elapsed time: 0.00202144
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./p.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./p.out
 ------------>  Process only:: Elapsed time: 0.00195636
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./p.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./p.out
 ------------>  Process only:: Elapsed time: 0.00203696
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./p.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./p.out
 ------------>  Process only:: Elapsed time: 0.00387936
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./p.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./p.out
 ------------>  Process only:: Elapsed time: 0.00276425
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./p.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./p.out
 ------------>  Process only:: Elapsed time: 0.00200299
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ ./p.out
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ ./p.out
 ------------>  Process only:: Elapsed time: 0.00207049
-ogh@ubuntu:~/C_denemeler/tryspeed_cpp$ 
+ogh@ubuntu:~/C_Cpp_Examples/tryspeed_cpp$ 
